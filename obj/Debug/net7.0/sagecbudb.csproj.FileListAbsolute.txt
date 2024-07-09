@@ -1,0 +1,44 @@
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\sagecbudb.exe
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\sagecbudb.deps.json
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\sagecbudb.runtimeconfig.json
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\sagecbudb.dll
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\sagecbudb.pdb
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gifty\Desktop\sagecbudb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.csproj.AssemblyReference.cache
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.AssemblyInfoInputs.cache
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.AssemblyInfo.cs
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.csproj.CoreCompileInputs.cache
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.csproj.CopyComplete
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.dll
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\refint\sagecbudb.dll
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.pdb
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\sagecbudb.genruntimeconfig.cache
+C:\Users\gifty\Desktop\sagecbudb\obj\Debug\net7.0\ref\sagecbudb.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\sagecbudb.exe
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\sagecbudb.deps.json
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\sagecbudb.runtimeconfig.json
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\sagecbudb.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\sagecbudb.pdb
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.csproj.AssemblyReference.cache
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.AssemblyInfoInputs.cache
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.AssemblyInfo.cs
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.csproj.CoreCompileInputs.cache
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.csproj.Up2Date
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\refint\sagecbudb.dll
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.pdb
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\sagecbudb.genruntimeconfig.cache
+C:\Users\gifty\Desktop\MOSES CHIMBA 20151412\MOSES CHIMBA 20151412\sagecbudb\obj\Debug\net7.0\ref\sagecbudb.dll
